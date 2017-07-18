@@ -1,9 +1,8 @@
 # CF SlideShare: cfslideshare
-Joomla! Custom Field to integrate Instagram photo into your Joomla articles
+Joomla! Custom Field to integrate Slide of SlideShare into your Joomla articles
 [GitHub Web](https://sergiois.github.io/cfslideshare.html "CF SlideShare")
 
 ## Installation and Usage
-* Install the plugi## Installation and Usage
 * Install the plugin using Joomla! Extension Manager
 * Add the field (CFSLIDESHARE) to your component using com_fields
 * Intro the Slide URL:
@@ -16,7 +15,7 @@ You need to have the CURL library installed on your server so that it works corr
 
 # Changelogs
 
-### Version 1.0.0 [2017-07-18]
+### Version 1.0.0 [2017-07-19]
 * **[Added]** Show Slide without customization
 
 * * *
