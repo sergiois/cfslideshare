@@ -18,6 +18,10 @@ You need to have the CURL library installed on your server so that it works corr
 ### Version 1.0.0 [2017-07-19]
 * **[Added]** Show Slide without customization
 
+### Version 1.0.1 [2019-01-20]
+* **[Added]** Changes to upload plugin to the JED
+* **[Changed]** Language files
+
 * * *
 
 ## Copyright & License
