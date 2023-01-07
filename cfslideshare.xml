@@ -2,12 +2,12 @@
 <extension type="plugin" version="3.6" group="fields" method="upgrade">
 	<name>plg_fields_cfslideshare</name>
 	<author>Sergio Iglesias</author>
-	<creationDate>July 2017</creationDate>
-	<copyright>Copyright 2017 - SergioIglesiasNET.</copyright>
+	<creationDate>January 2023</creationDate>
+	<copyright>Copyright 2023 - SergioIglesiasNET.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<authorEmail>info@sergioiglesias.net</authorEmail>
 	<authorUrl>https://sergioiglesias.net</authorUrl>
-	<version>1.0.1</version>
+	<version>1.1.0</version>
 	<description>PLG_FIELDS_CFSLIDESHARE_XML_DESCRIPTION</description>
 	<files>
 		<filename plugin="cfslideshare">cfslideshare.php</filename>

@@ -22,6 +22,9 @@ You need to have the CURL library installed on your server so that it works corr
 * **[Added]** Changes to upload plugin to the JED
 * **[Changed]** Language files
 
+### Version 1.1.0 [2023-01-07]
+* **[Added]** Joomla 4 compatibility
+
 * * *
 
 ## Copyright & License
